@@ -14,7 +14,7 @@ This repository contains a face recognition-based authentication system that cap
 To set up the environment, clone this repository and install the required dependencies using `pip`:
 
 ```bash
-git clone https://github.com/yourusername/face-recognition-authentication.git
+git clone https://github.com/far-sae/face-recognition-authentication.git
 cd face-recognition-authentication
 pip install -r requirements.txt
 ```
