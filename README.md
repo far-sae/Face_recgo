@@ -15,7 +15,7 @@ To set up the environment, clone this repository and install the required depend
 
 ```bash
 git clone https://github.com/far-sae/Face_recgo.git
-cd face-recognition-authentication
+cd Face_recgo
 pip install -r requirements.txt
 ```
 
